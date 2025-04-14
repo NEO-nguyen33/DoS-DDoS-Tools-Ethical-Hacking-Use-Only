@@ -1,0 +1,9 @@
+git clone https://github.com/epsylon/ufonet.git
+cd ufonet
+python3 ufonet --gui
+You can launch:
+
+TCP/UDP/HTTP flood
+
+Exploit vulnerable web-based bots (zombies)
+
